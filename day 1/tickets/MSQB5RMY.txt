@@ -1,0 +1,8 @@
+
+Prio: Urgent
+
+Name: Jayson
+
+Submitted: 2026-08-12T18:33:04.384+02:00
+
+Issue: Cannot start laptop — no display and no power/boot signs.
