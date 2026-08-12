@@ -1,0 +1,8 @@
+
+Prio: Not urgent
+
+Name: Kevin
+
+Submitted: 2026-08-12T18:26:00.752+02:00
+
+Issue: PowerPoint fails to launch on user’s Windows PC. User tried restart, ending task, safe mode, updating Office, Quick/Online repair, and SFC/DISM with no success. User does not have admin rights; IT help desk ticket created.
