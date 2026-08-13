@@ -5,5 +5,8 @@ Submitted: 2026-02-09T22:03:19.074+01:00
 Description:
 User Tobias reports that their laptop fell down. Potential hardware damage needs to be assessed.
 
-Status: Open
+Status: Escalated
 Prio: Urgent
+
+Activity Log:
+2026-08-13T12:00:00.000+00:00 - Ticket reviewed by IT support chatbot. Issue classified as hardware damage and escalated to human IT technician for onsite assessment and repair. Technician notified.
